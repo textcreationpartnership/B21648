@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The third sermon preach'd before the King and Queen in Their Majesties chappel at St. James's on the third Sunday in Advent, Decemb. 13, 1685.</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21648</idno><idno type="EEBO-CITATION">11230082</idno>
+  <idno type="VID">204922</idno>
+  <idno type="EEBO-PROQUEST">2240865009</idno>
+  
+            <idno type="STC">Wing E603</idno>
+            <idno type="OCLC">11230082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The third sermon preach'd before the King and Queen in Their Majesties chappel at St. James's on the third Sunday in Advent, Decemb. 13, 1685.</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advent sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204922:1"/>
+            <pb facs="tcp:204922:1"/>
+            <p>The Third SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at St. <hi>James</hi>'s, on the Third <hi>Sunday</hi> in <hi>Advent,</hi> Decemb. 13. 1685.</p>
+            <p>By the Reverend Father <hi>Dom. PH. ELLIS,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congr. Chaplain in Ordinary to His Majesty.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="command">
+                        <p>
+                           <hi>Published by His Majesties Command.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's most Excellent Majesty, for his Houshold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204922:2"/>
+            <pb n="1" facs="tcp:204922:2"/>
+            <head>THE THIRD SERMON Preach'd before THEIR MAJESTIES, On the Third <hi>Sunday</hi> in <hi>Advent.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Medius vestrum stetit quem vos nescitis.</hi>
+                  </p>
+                  <p>There hath stood one among you whom you know not.
+<bibl>
+                        <hi>John 1.26.</hi>
+                     </bibl>
+                  </p>
+                  <p>
+                     <hi>Words spoke by St.</hi> John Baptist, <hi>and repea<g ref="char:EOLhyphen"/>ted by the Church in the Gospel of this Day; taken out of St.</hi> John, &amp;c. <hi>and ren<g ref="char:EOLhyphen"/>dred in our Vulgar</hi> English <hi>Translation;</hi>
+                  </p>
+                  <p>There standeth one in the midst of you whom you know not.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE last time St. <hi>John Baptist stood in the midst of us;</hi> that is, in the Gospel of last <hi>Sunday,</hi> Your Majesties beheld him send<g ref="char:EOLhyphen"/>ing Embassadors to <hi>Jesus,</hi> to inquire whether
+<pb n="2" facs="tcp:204922:3"/>he were the <hi>Messias,</hi> to convince those he sent of what he had Preach'd from the <hi>Wil<g ref="char:EOLhyphen"/>derness</hi> to the <hi>Prison,</hi> and to shew, that <hi>if the Word of God cannot be bound,</hi>
+               <note place="margin">2 Tim. 2.9.</note> so neither can the <hi>Voice. John</hi> was in Chains, but not the <hi>Praecursor.</hi> No Fetters can detain the Voice from communicating with the Words, <hi>Ego Vox.</hi> But the Gospel of this Day shifts the Scene, and discovers St. <hi>John</hi> receiving an Embassy upon the same ac<g ref="char:EOLhyphen"/>count. A Noble and Learned Train of Priests and Levites; <hi>Priests,</hi> as Deputies of the Clergy; and <hi>Levites,</hi> their Attendants; selected Members of the <hi>Sanhedrim,</hi> and Representatives of the whole Body Ecclesi<g ref="char:EOLhyphen"/>astick, with great Solemnity, and (as St. <hi>Au<g ref="char:EOLhyphen"/>gustine</hi> thinks) with no less Sincerity, ad<g ref="char:EOLhyphen"/>dress to him, with a <hi>Tu quis es? Who are you?</hi> In what Quality do you appear a<g ref="char:EOLhyphen"/>mong us? By what Authority do you <hi>Preach Penance?</hi> And by what New Light do you foresee that <hi>the Kingdom of Heaven is at Hand?</hi> We are the Ordinary Dispen<g ref="char:EOLhyphen"/>sers of the Word; <hi>Who are you?</hi> Your <hi>Mission</hi> is as Extraordinary as your Life; But you must verifie your Patent by greater
+<pb n="3" facs="tcp:204922:3"/>Wonders then a Hard Fare and Coarse Habit; <hi>Quis es?</hi> Indeed the Sanctity of your Conversation, the Vehemency of your Spirit, the Force and Excellence of your Doctrine, and your exact Timing it with our Expectation of the <hi>Messias,</hi> the Sceptre being now wrested from the Royal Tribe, of <hi>Juda,</hi> by the Hands of a Stranger, and the 70 Weeks of Years, the Term assign'd by <hi>Daniel</hi> for the <hi>Messias</hi>'s Coming, being now expir'd, we begin to doubt, and come to ask, <hi>Are you he that is to come, or do we expect another? What do you say of your self? If you are Christ, tell us so plainly.</hi>
+            </p>
+            <p>This (according to the Fathers and In<g ref="char:EOLhyphen"/>terpreters) was the Sence of their First Question, which our Baptist, as sparing in his <hi>Words</hi> as in his <hi>Diet,</hi> abruptly Answers, <hi>Non sum, I am not he.</hi> Which short Reply serv'd for their following Interrogatories, <hi>I am not Elias, I am not a Prophet.</hi> Not <hi>E<g ref="char:EOLhyphen"/>lias,</hi> but only in Spirit and Power, to pre<g ref="char:EOLhyphen"/>pare the First <hi>Advent</hi> of <hi>Christ,</hi> as he in Per<g ref="char:EOLhyphen"/>son shall do the Second; Not a <hi>Prophet,</hi> be<g ref="char:EOLhyphen"/>cause Prophecy consists in Discerning things absent, and Predicting the future; but I am
+<pb n="4" facs="tcp:204922:4"/>only an Index to point out to you what is already before your Eyes, to awaken your Attention, that <hi>There standeth one among you, whom you know not;</hi> and therefore to put an end to your Enquiry, <hi>Ego Vox, I am</hi> only <hi>a Voice,</hi> a meer Organ, and Fore<g ref="char:EOLhyphen"/>runner of the <hi>Word:</hi>
+               <note place="margin">John 1.30.</note> for <hi>He is coming after me who is made before me.</hi> For tho' the <hi>Voice</hi> be first by priority of Place, yet the <hi>Word</hi> is first by priority of Nature; the <hi>Ver<g ref="char:EOLhyphen"/>bum mentis,</hi> or Conception, being antece<g ref="char:EOLhyphen"/>dent to the <hi>Verbum oris,</hi> or Expression. And as when good News is brought you, (Right Honorable and Religious Auditors) you amuse not your selves with the Voice that delivers it, but attend to the Thing deli<g ref="char:EOLhyphen"/>ver'd; so the <hi>Jew,</hi> so the <hi>Christian</hi> is com<g ref="char:EOLhyphen"/>manded, so common Sence teacheth you, not to stop at the <hi>Voice,</hi> (a meer Shadow) but to carry your Attention to the <hi>Sub<g ref="char:EOLhyphen"/>stance.</hi> So St. <hi>John,</hi> and so every one that after him announces <hi>JESƲS CHRIST,</hi> ex<g ref="char:EOLhyphen"/>horts you not to be offended with the plain and unartful Delivery of the Preacher, nor to expect that harmony of Words, those mo<g ref="char:EOLhyphen"/>ving Gestures, those sweet Cadences in the
+<pb n="5" facs="tcp:204922:4"/>Pulpit, which draw you to the Theatre, which are the <hi>Business,</hi> and make all the Beauty of the Stage. They were certainly other Motives that brought you hither: for unless you mistake Curiosity for De<g ref="char:EOLhyphen"/>votion, you come not to be charm'd with soft Numbers, and a Musical Air, but to be instructed in solid and severe Truths, such as a Baptist publishes in my Text, in Words as unstudy'd as his Gesture, as rough as his Clothing, and containing a Doctrine as mortifying and rigid as his Life: And such you are to expect within these Walls, from one that pretends not to mollifie, but to inforce his Doctrine, and as his <hi>Voice</hi> and Interpreter to carry home to you the bitter Reproach, that <hi>There standeth one in the midst of you whom you know not,</hi> that there is a <hi>God</hi> who is a <hi>consuming fire,</hi> who <hi>is a searcher of hearts,</hi> a God <hi>jealous of his Honor,</hi> and an Avenger of a Contempt to the Third and Fourth Generation; that this God is in the midst of you;
+<list>
+                  <item>1.
+<label type="milestone">
+                        <seg type="milestoneunit">Division. </seg>
+                     </label> By the Immensity of his Nature and Being;</item>
+                  <pb n="6" facs="tcp:204922:5"/>
+                  <item> 2. By the Extent of his Power and Operation; And</item>
+                  <item>3. By the Infinity of his Wisdom and Knowledge;</item>
+               </list> (Which shall make the three Parts of this Exhortation,) and yet you know him not, and yet you cannot but know him; your Ignorance is not real, but affected and wil<g ref="char:EOLhyphen"/>ful; your Knowledge serves only to make your neglect of him more criminal; and oh! I tremble to say it, without more then an ordinary Repentance, unpardonable. But we need a Baptist to evince these Truths, or at least a double portion of his Spirit to rest upon, and to animate my Tongue. Let us apply our selves to him that <hi>chooses the weak things of this World, to confound the strong;</hi> and as an instance, when he came to destroy the Kingdom of Sin, <hi>he did not abhor a Virgins womb,</hi> the Angel <hi>Gabriel</hi> being the <hi>Praecursor,</hi> and especially in this Holy Time of <hi>Advent,</hi> warranting our repetition of his Message, <hi>Ave Maria.</hi>
+            </p>
+            <div n="1" type="part">
+               <pb n="7" facs="tcp:204922:5"/>
+               <head>
+                  <hi>There hath stood,</hi> or standeth,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>one in the midst of you, whom you know not.</hi>
+               </head>
+               <p>THE great <hi>Praecursor</hi> of our Lord knew very well,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> that one of the most efficacious Means to keep us within the bounds of our Duty, or when we have stept aside, to cast a rub in our way, and make us fall back by a timely Repentance, (the Subject of his Preaching) was to put us in mind, that God, whom we so supinely neglect, and so carelesly offend, is <hi>in the midst of us;</hi>
+               </p>
+               <p>First, By the Immensity of his Nature and Being. For the Omnipresence of God, or his being in all Places, is so necessarily included in the Notion which all Men have of the Deity, that a doubt of it wou'd sap the very Foundations of Religion, and shock the First Principles of Reason: for, <hi>That is nothing where God is not,</hi> says the most ancient of the Heathen Philosophers. And in effect, take away the Presence of the Divinity to all Things, and in all Pla<g ref="char:EOLhyphen"/>ces, his <hi>Infinity</hi> and <hi>Immutability,</hi> the un<g ref="char:EOLhyphen"/>questionable
+<pb n="8" facs="tcp:204922:6"/>Attributes, and (as I may say) the constitutive Perfections of the God<g ref="char:EOLhyphen"/>head, are no more, and <hi>the Fool may</hi> truly <hi>say in his heart, There is no God.</hi>
+               </p>
+               <p>For, 1<seg rend="sup">st.</seg> That which is <hi>Infinite</hi> can suf<g ref="char:EOLhyphen"/>fer no Limitation; and yet if he were not Immense, the being in one Place wou'd exclude him from being in another. And, 2<seg rend="sup">ly.</seg> That which is <hi>Immutable</hi> can never change, or shift its place; yet if God were not Immense, that is, if he were confin'd to one determinate Space, he cou'd not be in another, without ceasing to be where he was before; whence it is evi<g ref="char:EOLhyphen"/>dently concluded, that he is every where, and reaches all Places, and all Times; by his <hi>Eternity</hi> all Times, by his <hi>Immensity</hi> all Places.</p>
+               <p>But withal we must acknowledge, that he is in a peculiar, more excellent manner, present to the Rational Creature, which bears his Image, and for whose sake he made all other things contain'd in that we call <hi>Place.</hi> For his Presence to other parts of the Creation, is only necessary in order to preserve them in <hi>Being;</hi> but his Presence
+<pb n="9" facs="tcp:204922:6"/>to Man is necessary in order to his <hi>Well-being.</hi> Other Creatures operate by the Ne<g ref="char:EOLhyphen"/>cessity of their Natures, Man by the Ele<g ref="char:EOLhyphen"/>ction and Liberty of his Will. Other Crea<g ref="char:EOLhyphen"/>tures cannot swerve from the Position which was assign'd them, nor stop the Motion which was impress'd on them, when they first began to exist; the Sun cannot start from his Sphere, nor the Earth burst from its Centre: But you are not only eccen<g ref="char:EOLhyphen"/>trique to the State in which you were crea<g ref="char:EOLhyphen"/>ted, you have not only stifled and suppress'd the Impulse of Original Innocence, and deaded the action of Justifying Grace within you; but you also stand in need of a strong Rein, to keep you from rushing into an endless Series of Irregularities and Trans<g ref="char:EOLhyphen"/>gressions. And therefore you must be often warned, that <hi>The rod is upon your back,</hi>
+                  <note place="margin">Prov. 26.3.</note> (as the wise King speaks) or as the Baptist more forcibly,
+<note place="margin">Luke 3.9.</note> that <hi>The ax is laid to the root of the tree;</hi> that the Eye of your Maker is in every place open and fix'd upon you, that his Hand is stretch'd out to cut you down in your greener Sins. And when the Tree is fell'd, we know the consequence, it lives
+<pb n="10" facs="tcp:204922:7"/>no more:
+<note place="margin">Eccles. 11.3.</note> but that's not all; <hi>In the place where the tree falleth, there it shall be,</hi> saith the Preacher. In what place soever you meet this fatal Blow, your Eternity de<g ref="char:EOLhyphen"/>pends upon it; your <hi>Eternity,</hi> that's the Blow: 'Tis the <hi>Hand</hi> of God that strikes, Death is the <hi>Ax,</hi> your selves are the <hi>Tree;</hi> and what is the <hi>End? In ignem mittetur,</hi> Cast the fruitless Tree into unquenchable Flames. <hi>Et quis poterit habitare de vobis cum igne devorante?</hi> And tell me, you that cannot endure the sight of a Mortification, the approach of an Affliction, the want of a Repast, or a Superfluity, no nor of an Ex<g ref="char:EOLhyphen"/>cess;
+<note place="margin">
+                     <hi>Isai.</hi> 33.14.</note>
+                  <hi>Who among you can dwell with the de<g ref="char:EOLhyphen"/>vouring fire? who among you can dwell with everlasting burnings?</hi> But what could raise the Indignation of our God to such a Flame against his Creature? against his own Likeness, the Likeness of a God, <hi>who cannot forget to be gracious,</hi>
+                  <note place="margin">Psal. 77.9.</note>
+                  <hi>nor in his anger shut up his tender mercies;</hi> but because he is in the midst of us, and we know him not? Ah, Christians, let us enquire no far<g ref="char:EOLhyphen"/>ther, our Guilt is too evident.</p>
+               <pb n="11" facs="tcp:204922:7"/>
+               <p> That God is in the midst of us, is com<g ref="char:EOLhyphen"/>mon to us with other Creatures; 'tis the Excellence of his Divine Nature, as well as the Subsistence and Advantage of the Cre<g ref="char:EOLhyphen"/>ated: But that <hi>we know him not,</hi> is the <hi>spe<g ref="char:EOLhyphen"/>cifique</hi> Crime of Man, an Apostacy that discriminates you from all other Creatures, which by an in-born tendency to fulfil the Will of their Creator, <hi>who said, Let there be light, and there was light;</hi> or by an Obe<g ref="char:EOLhyphen"/>diential Power, execute those Orders which they do not understand; as,
+<note place="margin">Isai. 1.3.</note>
+                  <hi>The Ox knows his Owner, and the Ass the Crib of his Ma<g ref="char:EOLhyphen"/>ster; Israel autem non cognovit; but Israel knows not me:</hi> You that excel all other Creatures, because you have the Power of Knowing, know not me that gave you that Power; the Faculty that makes you little less then the Angels, sinks you below the Condition of Beasts. But if your Blind<g ref="char:EOLhyphen"/>ness and Insensibility rested there, I that can command <hi>light to shine out of darkness,</hi>
+                  <note place="margin">2 Cor. 4.6.</note> might enlighten your Eyes, and melt down your Hearts: But that which raises your Crime to an unpardonable Enormity, is, that <hi>you are Israel, Populus meus, My Peo<g ref="char:EOLhyphen"/>ple,</hi>
+                  <pb n="12" facs="tcp:204922:8"/>my Inheritance, which I have separated from the rest of the World, chosen out of all Nations, seal'd with the Blood of the Testament, enrich'd with my Spirit; and as I once told my Servant <hi>David,</hi>
+                  <note place="margin">2 Kings 12.8.</note>
+                  <hi>If all these things are too little, I am ready to add far greater:</hi> But that you, after all, should not know me; that wilful, that design'd, that affected Ignorance, ties up the Hands of Mercy: I can no more, unless it be to <hi>cry to you like a Woman in travail,</hi>
+                  <note place="margin">Isai. 42.14.</note>
+                  <hi>quasi partu<g ref="char:EOLhyphen"/>riens loquar:</hi> And have I been silent? Have not I <hi>exalted my Voice like a Trumpet?</hi> And have you not stopp'd your Ears, either <hi>re<g ref="char:EOLhyphen"/>fusing to hear the voice calling after you,</hi> or churlishly replied to your God, <hi>Scientiam viarum tuarum nolumus; We will not the know<g ref="char:EOLhyphen"/>ledge of thy ways;</hi> We will not know thee, lest we should be converted, and thou shouldst heal us?</p>
+               <p>For, Christians, is it to know God, when your Life and Manners contradict your Be<g ref="char:EOLhyphen"/>lief?
+<note place="margin">Matth. 15.8.</note> or, <hi>to honor him with your Lips, when your Heart is far from him?</hi> or, to hear his Word, like the <hi>Voice of an Inchanter,</hi> to go away pleas'd with the Harmony, without a
+<pb n="13" facs="tcp:204922:8"/>design of submitting to the Doctrine? If you do not believe the Presence of your God in <hi>the midst of you,</hi> I must send you to the Heathen for Instruction: But I am afraid you are past that:
+<note place="margin">Matth. 6.23.</note>
+                  <hi>If the Light that is in you</hi> by Nature, <hi>be turn'd into Darkness,</hi> by obdu<g ref="char:EOLhyphen"/>racy in Sin, <hi>Tenebrae quantae erunt?</hi> 'Tis more then <hi>Egyptian</hi> Darkness; 'tis that of Hell, <hi>from which there is no redemption.</hi> But if <hi>you believe there is a God</hi> who in all Pla<g ref="char:EOLhyphen"/>ces beholds the Good and the Bad, <hi>you do well,</hi> says the Apostle;
+<note place="margin">James 2.19.</note> but <hi>the Devils also believe, Daemones credunt;</hi> yet 'tis a dead Faith, unless you believe and tremble: <hi>Dae<g ref="char:EOLhyphen"/>mones contremiscunt,</hi> the <hi>Devils too believe and tremble;</hi> but they do not repent. And what Name will you give those who nei<g ref="char:EOLhyphen"/>ther believe, tremble, nor repent? For, as<g ref="char:EOLhyphen"/>sure your selves, if you do not <hi>tremble,</hi> you do not <hi>repent;</hi> and if you do not <hi>re<g ref="char:EOLhyphen"/>pent,</hi> you do not <hi>believe</hi> either the Presence of God in you by the Immensity of his Nature, nor his Presence with you by the Extent of his Power and Operation: Which is my Second Point.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="14" facs="tcp:204922:9"/>
+               <p>The Presence of God in all Things,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> and all Places, prov'd from the Extent and Universality of his Operation, was judg'd by the great Apostle, of sufficient strength to level all Infidelity at a Blow, to con<g ref="char:EOLhyphen"/>vince the most haughty Spirit, and to a<g ref="char:EOLhyphen"/>waken the most heavy Heart into an aw<g ref="char:EOLhyphen"/>ful attention to the Deity. Therefore he put no other Argument to the People of <hi>Athens,</hi> and their Learned Bench of Judges in the <hi>Areopagus:</hi> for having found an Altar with this Inscription,
+<note place="margin">Acts 17.23.</note>
+                  <hi>To the unknown God,</hi> he reproaches their blindness, and shews, That the <hi>Divinity</hi> cannot be confin'd to Temples built with Hands, because <hi>he is not distant from any of us all;</hi> and how do's he prove that? <hi>Because in him we live, move, and have our Being.</hi>
+               </p>
+               <p>A full, and just Conclusion: For every <hi>Agent</hi> must be present to the Thing it acts upon, that is, the <hi>Mover,</hi> and Thing <hi>Moved,</hi> must be together. Now that there is a <hi>First Mover,</hi> imparting Motion to every Creature, is evident to the light of Nature, and was acknowledg'd by the Gentiles. If there be a <hi>First Mover,</hi> there is a <hi>First Cause</hi>
+                  <pb n="15" facs="tcp:204922:9"/>of all things; therefore, <hi>ab ipso,</hi> from it, we live, and move, and have our Being; But because God is a mover, not only, when he first gave us Being, but also, while he preserves us in that Being (for Preserva<g ref="char:EOLhyphen"/>tion is nothing, but the Creative Action continued) therefore, <hi>in ipso,</hi> in him, we live, we move, and have our Being: as he is the cause <hi>efficient,</hi> we are from him; <hi>omnia per ipsum facta sunt:</hi> as he concurs with all our Operations, giving us Facul<g ref="char:EOLhyphen"/>ties to act, Reason to discern, Liberty to chuse, Perseverance to accomplish, we are in him, and he in us, (according to the Prophet) <hi>thou hast wrought all our Works in us.</hi>
+                  <note place="margin">Isai. 26.12.</note>
+               </p>
+               <p>For this wonderful Operation of God in all his Creatures, is still more admirable in Man, a Creature of such excellent En<g ref="char:EOLhyphen"/>dowments that nothing under a God cou'd be its Original, but a Creature so insensi<g ref="char:EOLhyphen"/>ble of its own Perfection, so fallen from its native Beauty, and so continually tend<g ref="char:EOLhyphen"/>ing to Nothing, and concurring to its own Ruine, that no less then an omnipotent Hand can stop him short on the brink of
+<pb n="16" facs="tcp:204922:10"/>the Precipice, whither he is running to Self-destruction, by the dissolution of the Elements which compound his Body, but by a far worse dissolution of his Manners, which destroy his Soul.</p>
+               <p>To preserve this Creature, is a Province for a God, worthy an omnipotent Hand, and becoming <hi>the strong One of Israel.</hi> And in this he chiefly demonstrates,
+<note place="margin">Deut. 20.4.</note> that <hi>there is a God in the midst of us. Portans, Implens, protegens,</hi> says St. <hi>Augustine.</hi> Bearing with, and supporting our Weakness, <hi>Portans;</hi> Filling our Emptiness, and repairing our Decays, <hi>Implens;</hi> Covering us with his Wings, and defending us from our selves, the worst of our Enemies, <hi>Protegens.</hi> Did he not <hi>sustain</hi> us, we shou'd at this instant return into our own Nothing, by the sole weight of our Infirmity; Did he not <hi>bear with us,</hi> we shou'd be lost for ever; Did he not <hi>fill</hi> our Emptiness, we shou'd be indeed but miserable; Did he not repair our De<g ref="char:EOLhyphen"/>cays, <hi>Salvation it self cou'd not save us;</hi> And in fine, were he present to us as a meer Spe<g ref="char:EOLhyphen"/>ctator, with an idle and unactive Presence, <hi>Darkness wou'd cover us,</hi> and Hell wou'd swal<g ref="char:EOLhyphen"/>low
+<pb n="17" facs="tcp:204922:10"/>us up. But his Presence is (as the Pro<g ref="char:EOLhyphen"/>phet elegantly expresses it) <hi>a tabernacle for a shadow in the day-time from the heat,</hi>
+                  <note place="margin">Isai. 4.6.</note>
+                  <hi>and for a place of refuge, and for a covert from storm and rain;</hi> a Presence of protection and succour. <hi>Do not fear,</hi> says he by the Mouth of the Priest, when the <hi>Israelites</hi> were upon the point of engaging the Ene<g ref="char:EOLhyphen"/>my, <hi>Dominus vester, in medio vestri est,</hi>
+                  <note place="margin">Deut. 20.4.</note>
+                  <hi>Your God is in the midst of you, and will fight for you against your enemies.</hi> The Victory is already in your hands, when the <hi>God of Armies</hi> is at your Head to lead you on, and do you fear the Success? He is at your Side to support you, and do you shrink from the <hi>most fiery darts</hi> of Satan? He co<g ref="char:EOLhyphen"/>vers you with his Shield, and wou'd any one in his right Senses throw away his Arms, and render himself a Slave to the Powers of Wickedness?</p>
+               <p>Christians, <hi>I said you are gods, and all of you sons of the most High,</hi> the Image of his Likeness, the Master-piece of his Works, the Darling of his Providence, the Object of his Cares, of his Vigilancy, of his more then Paternal Solicitude. For
+<pb n="18" facs="tcp:204922:11"/>
+                  <hi>Tho' a mother shou'd forget the child that hangs at her breasts,</hi>
+                  <note place="margin">Isai. 49.15.</note>
+                  <hi>shou'd she have no com<g ref="char:EOLhyphen"/>passion of the son of her womb,</hi> (a thing very unlikely, but not impossible,) <hi>Ego tamen non obliviscar tui; yet I will</hi> never <hi>forget thee,</hi> 'tis absolutely impossible. <hi>Behold, I have written thee in the palms of my hands,</hi> to have thee always before my eyes. <hi>Imo non tantum in oculis Dei sed etiam in sinu vivi<g ref="char:EOLhyphen"/>mus,</hi> says <hi>Minutius Faelix; We live not only in the Eyes of our God, but even in his Bosom.</hi> And yet, (O Prodigy of Ingratitude!) we can forget this God, this Benefactor, this Parent, this Friend; and we do actually forget him as often as we sin: Alass! when is it that we remember him? all other things can find a place in our thoughts, and only <hi>He</hi> that ought to be the Subject of our whole Attention, is excluded. The meanest, and most trivial Accidents, idle Discourses, and impertinent News, never fail of a welcom; but when the Name of God happens to crowd in, (unless it be in Oaths and Imprecations;) when the Du<g ref="char:EOLhyphen"/>ties of Religion come into our Heads, (un<g ref="char:EOLhyphen"/>less it be to ridicule and blaspheme them;)
+<pb n="19" facs="tcp:204922:11"/>when the Terrors of Divine Justice present themselves before us, the Door is presently shut upon them; and if they forcibly press in, as sometimes they will, there is presently a damp upon our Spirits, we flie from the Reflection <hi>as from the face of a Serpent:</hi> Company, Divertisement, and even Debau<g ref="char:EOLhyphen"/>chery, are sought to rescue us from the dan<g ref="char:EOLhyphen"/>gerous Temptation of <hi>remembring our Crea<g ref="char:EOLhyphen"/>tor in the days of our youth.</hi>
+               </p>
+               <p>Indeed, my Christian Auditors, it is thought a <hi>dangerous Temptation</hi> by the Powers of Darkness, and much apprehend<g ref="char:EOLhyphen"/>ed by the Enemy of Mankind; for the strongest Cords that he binds a Sinner with, are Oblivion, and Neglect of the Divine Presence. And we have an assu<g ref="char:EOLhyphen"/>rance of this from God's own Mouth; for having enumerated in the 22<seg rend="sup">th</seg> Chapter of <hi>Ezekiel,</hi> all the crying Sins, and abomina<g ref="char:EOLhyphen"/>ble Impieties of the City <hi>Jerusalem,</hi> he con<g ref="char:EOLhyphen"/>cludes the Tragical Description with the greatest, the source and original of all the rest, <hi>Meique oblita es, Thou hast forgotten me;</hi>
+                  <note place="margin">Ezech. 22.12.</note> and if thou hadst not, thou cou'dst never have prostituted thy self to such Impieties.
+<pb n="20" facs="tcp:204922:12"/>And whence, I beseech you, issue so many bloody Revenges, scandalous Reflections, black Calumnies, shameless Commerces, and unbridled Liberties, I do not say a<g ref="char:EOLhyphen"/>mong the <hi>Africans</hi> and <hi>Tartars,</hi> but within the Pale of <hi>Christianity,</hi> in the very Bowels of Religion, among the <hi>chosen Generation, the Royal Priesthood, the holy Nation, the pe<g ref="char:EOLhyphen"/>culiar People?</hi> what are the poisonous Springs of these Rivers of Death? but <hi>Meique oblita es;</hi> You have forgotten that your God is present to you, either by the Immensity of his Being, or by the Extent of his Operations; and therefore you must be convinc'd, that he is present to you by his Wisdom and Knowledge, which is my last Consideration.</p>
+            </div>
+            <div n="3" type="part">
+               <p>That God is <hi>Omniscient,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> or knowing all things, is evident as well from the Excel<g ref="char:EOLhyphen"/>lence of the Divine Nature, as from the Immensity of his Being and Operation: for since he is in all things, giving them existence and motion, we shou'd make him an irrational Agent, to question whe<g ref="char:EOLhyphen"/>ther he knows the Works of his own Hands. Wherefore all those Productions
+<pb n="21" facs="tcp:204922:12"/>which are so much in the dark to us, and so impenetrable to our Understanding, whether the secret workings of Nature, or the more difficult windings and recesses of the Heart of Man, lie open and expanded to the Eyes of God;
+<note place="margin">Hebr. 4.13.</note>
+                  <hi>Neither is there any creature</hi> (says the Apostle) <hi>that is not mani<g ref="char:EOLhyphen"/>fest in his sight, but all things are naked and o<g ref="char:EOLhyphen"/>pen to the eyes of him with whom we have to do.</hi>
+               </p>
+               <p>Now certainly, the only presence of a Great Prince, must needs put us upon our Guard, and make us study our Behaviour, our Gestures, and our Words, if we had nothing to do with him, and tho' he did not seem to regard us. But when he casts his Eyes towards us, and seems to attend to what we say or do, we cannot but have a greater concern upon us, we cannot but add more than an ordinary Solicitude, tho' he stands but as a meer Spectator, without a design to reward or punish, or so much as nicely to examin our Words, or our Deeds; but when he sits upon the Judgment Seat, surrounded with all the Pomp, and Terror of Justice, observing all our Motions, studying our Looks,
+<pb n="22" facs="tcp:204922:13"/>weighing our Words, canvassing our Acti<g ref="char:EOLhyphen"/>ons, diving into our very Intentions, de<g ref="char:EOLhyphen"/>manding account of the <hi>Talents</hi> left in our Hands, and all this with Life and Death at the point of his Tongue: Good God! what a concern wou'd you be in if this were your case? wou'd Riches, Ho<g ref="char:EOLhyphen"/>nors, Voluptuousness, Greatness, or Am<g ref="char:EOLhyphen"/>bition, work any more upon you than they do upon a Criminal that is dragg'd to Execution? Wou'd you send for the Mu<g ref="char:EOLhyphen"/>sician, or the Comedian to divert your Mind, least you shou'd become too seri<g ref="char:EOLhyphen"/>ous in his presence; or wou'd you expose your self to his Indignation by foolish Dal<g ref="char:EOLhyphen"/>liances, and Indecencies, in your Po<g ref="char:EOLhyphen"/>stures and Behaviour? But if the Prince shou'd bid you draw near, and with a gra<g ref="char:EOLhyphen"/>cious and serene Aspect, encourage you to discourse familiarly with him, to expose your Grievances, and ask whatsoever might be conducing either to your Ease or Hap<g ref="char:EOLhyphen"/>piness; Is it possible you shou'd so far for<g ref="char:EOLhyphen"/>get your own Concern, that your first Ad<g ref="char:EOLhyphen"/>dress shou'd be to Defame your Innocent Neighbour, or spend those blessed Mo<g ref="char:EOLhyphen"/>ments
+<pb n="23" facs="tcp:204922:13"/>in idle, or impertinent, or prophane Discourse, or even blaspheme the merciful Hand that affords them, and flie in the Face of your Royal Benefactor?</p>
+               <p>This indeed <hi>the unprofitable Servant</hi> did, when in lieu of begging Pardon for neg<g ref="char:EOLhyphen"/>lecting to improve his Talent, he tells his Master, that <hi>he knew him to be an Austere Man,</hi> and as falsely, as impudently charg'd him to his Face,
+<note place="margin">Luc. 19.21.</note>
+                  <hi>That he exacted what he did not deposit, and reap'd what he did not sowe;</hi> what cou'd folly utter more absurd, or Impudence more provoking, or Ingra<g ref="char:EOLhyphen"/>titude more injurious to his Lord? I know, Beloved Christians, you conceive the greatest indignation against such wretches, that you have already pronoun<g ref="char:EOLhyphen"/>ced Sentence in your Heart upon them, <hi>To be bound Hand and Foot, and to be cast into outward darkness.</hi>
+               </p>
+               <p>But to draw the matter home, and this Discourse to a Conclusion; Christian, this is your own case; this is no more than you commit every Day; no more did I say? 'tis infinitely short of your Folly, your Insensibility, your Ingratitude, who
+<pb n="24" facs="tcp:204922:14"/>dare sin <hi>in the Face of your Judge.</hi> For, pray what Perfection, or Advantage wou'd it be to God, if his Knowledge of our Actions were meerly <hi>speculative,</hi> without a Power to take an Account of them, to punish or reward them? Who of us wou'd not be glad to want such a steril Perfecti<g ref="char:EOLhyphen"/>on? When Nature it self instructs every Creature to fly from that violence and Ill usage which we cannot remedy, and to shut our Eyes against that Suffering, which be<g ref="char:EOLhyphen"/>comes double by being seen. And hence we conclude, that <hi>Epicure</hi> destroy'd the very Being of a God, when he limited His Concerns to the Heavens, without caring what pass'd in the neather World.</p>
+               <p>For the Knowledge of God is insepara<g ref="char:EOLhyphen"/>ble from his Power; the Schools teach us, that he is <hi>a Pure Act;</hi> his <hi>Knowledge,</hi> therefore is his <hi>Judgment,</hi> and whereso<g ref="char:EOLhyphen"/>ever his Eyes are open, his Tribunal is erected. He do's not expect the general Summons to meet us in the Vale of <hi>Josa<g ref="char:EOLhyphen"/>phat,</hi> nor the particular, to Answer before him at the hour of Death; no, not so much as the Place where thou hast com<g ref="char:EOLhyphen"/>mitted
+<pb n="25" facs="tcp:204922:14"/>that Theft, that Injustice, that Extortion; but because <hi>In medio vestrum stetit,</hi> Because <hi>he is in the midst of you,</hi> be<g ref="char:EOLhyphen"/>cause he dwells in your Heart, and sees your Wickedness in the Spring-head before it break out into Practice; there he passes the first Sentence,
+<note place="margin">Luc. 13.3.</note>
+                  <hi>Nisi poenitentiam habu<g ref="char:EOLhyphen"/>eritis, omnes simul peribitis; Ʋnless you re<g ref="char:EOLhyphen"/>pent,</hi> not only of the Sins you have com<g ref="char:EOLhyphen"/>mitted in the Eyes of Man, but also of every irreligious and indecent Thought, of every unlawful Desire, of every Unchri<g ref="char:EOLhyphen"/>stian Design, <hi>you shall</hi> inevitably <hi>perish. Faciam in medio tui Judicia;</hi>
+                  <note place="margin">Ezech. 5.8.</note>
+                  <hi>I will do judg<g ref="char:EOLhyphen"/>ment in the midst of you:</hi> Partly because Sin takes its birth in the midst of us, the Heart being the Womb where it is generated; and partly because in the very moment of its conception, it prides it self in the very Eyes of God, who dwells there, flies in his Face, wishes his Destruction, upbraids his Knowledge, defies his Thunder, and in fine, ejects the presence of his <hi>Grace,</hi> and leaves only that of his <hi>Severity.</hi> And do you wonder that Patience thus pro<g ref="char:EOLhyphen"/>vok'd can turn into Fury? <hi>As I live,</hi>
+                  <note place="margin">Ezech. 5.11.</note>
+                  <hi>saith
+<pb n="26" facs="tcp:204922:15"/>the Lord God, surely because thou hast defiled</hi> thy Heart, <hi>my Sanctuary with all thy detesta<g ref="char:EOLhyphen"/>ble things, and with all thy abominations, I will also destroy thee, neither shall my eye spare thee, neither will I have any pity on thee. Numerabo vos in gladio,</hi> says he by another Prophet,
+<note place="margin">Isai. 6.5, 12.</note>
+                  <hi>&amp; omnes in caede corruetis; I will put you all to the sword,</hi> you shall wallow in your own Blood, as Victims to my just Indignation: And why? <hi>Because you did evil before mine Eyes;</hi> Because tho' you knew I am always <hi>in the midst of you</hi> by the Immensity of my <hi>Nature,</hi> by the Ex<g ref="char:EOLhyphen"/>tent and Concurrence of my <hi>Operations,</hi> by the Infinity of my <hi>Wisdom</hi> and <hi>Knowledge,</hi> yet you have so little respect for my Pre<g ref="char:EOLhyphen"/>sence, that you have the Impudence to assault me upon my Throne, and daily, nay hourly act what <hi>Lucifer</hi> but once and in vain attempted: You wrest the Glories from my Temples, and place your selves <hi>on the Mount of the Testament;</hi> you entertain an unlawful Desire, you are pleas'd with it, <hi>it comes out an Idol,</hi> here you offer In<g ref="char:EOLhyphen"/>cense, and your self in Sacrifice; And <hi>these are your Gods, O Israel!</hi> Yes, they are
+<pb n="27" facs="tcp:204922:15"/>the Gods that lead you back into <hi>Egypt,</hi> in<g ref="char:EOLhyphen"/>to the House of Bondage; <hi>But Israel knows not me, and my People will not consider.</hi>
+               </p>
+               <p>Ah! Christian, it is enough, ah! it is too much, let us at last fix a period to our Crimes, and, as St. <hi>Augustine</hi> advises, <hi>Set our selves before our own Eyes,</hi> (it is the Busi<g ref="char:EOLhyphen"/>ness of this holy and penitential Time) and then we shall see our <hi>Gold turn'd into Dross,</hi> the most beautiful Creature distorted into the most hideous Deformity; while the advantage of our Being has made us even Monsters in Nature, because <hi>God hath stood in the midst of us, and we knew him not.</hi> You know and believe that you are, and Exist meerly by the Hand of his Power, that you Subsist by that of his Providence, and that you have deserv'd to be cut off by that of his Justice; And did God extract you out of Nothing for a meer Experi<g ref="char:EOLhyphen"/>ment, to try how Ungrateful you cou'd be? how much better had you never been? Do's he perpetuate your Being, meerly to exercise his Patience? how much better wou'd it be for you to perish this moment? But if you were made to Serve
+<pb n="28" facs="tcp:204922:16"/>him, and live to repent that you have not done it, lay hold on this <hi>acceptable time,</hi> this <hi>day of salvation.</hi>
+               </p>
+               <p>You know and believe, That you not only <hi>live,</hi> but also <hi>move in him</hi> (as the Apostle speaks); That he gives you Pow<g ref="char:EOLhyphen"/>ers to act, and concurs with the Exercise of them: And shall I make his Concur<g ref="char:EOLhyphen"/>rence subservient to my Injustice? Shall I turn his own Weapons against him, and corrupt the Means of doing well, into the Instruments of my Crimes?</p>
+               <p>In fine, You are fully perswaded, that you not only <hi>live, and move in him,</hi> but also, <hi>that he is in the midst of you,</hi> as a King in the midst of his Dominions, as a Judge in the midst of Criminals, not only discerning all your Proceedings, but nicely observing all your Motions, weighing eve<g ref="char:EOLhyphen"/>ry Circumstance in <hi>the Ballance of the Sanctuary, searching</hi> Jerusalem <hi>with Can<g ref="char:EOLhyphen"/>dles, numbring all the Hairs of your Head,</hi> and pronouncing upon <hi>every idle word;</hi> and that there is but a very small interval between the Sentence, and the Execution, a short flux of Time, an Accident, a Fever, an
+<pb n="29" facs="tcp:204922:16"/>Apoplexy, or perhaps a more sudden Death.</p>
+               <p>Now go on, and sin without fear, or Conscience; give the Reins to your Ap<g ref="char:EOLhyphen"/>petites, and freely abandon your selves to such abominations as the very <hi>Gentiles</hi> trembled to commit, tho' <hi>they knew not God.</hi> But 'tis impossible you should Act thus, and believe; but if you Act thus, —I will not, I am ashamed to make the Inference to those who have the repu<g ref="char:EOLhyphen"/>tation of being <hi>Christians,</hi> and what is now a day's thought something more, <hi>Men of Reason.</hi> All that I desire of you, is to take St. <hi>Bernard</hi>'s Advice along with you, <hi>Ibi pecca, ubi nescis Deum esse, chuse that place to offend in, whence God is excluded;</hi> an attention to whose most piercing Eyes will quench the most fiery Darts of the Enemy, a sense of whose adorable Pre<g ref="char:EOLhyphen"/>sence will keep a Rein upon the most un<g ref="char:EOLhyphen"/>ruly Appetites, and in fine, an apprehen<g ref="char:EOLhyphen"/>sion of whose severe Judgments will make you <hi>conceive, and bring forth the Spirit of Salvation,</hi> which is to prepare a way for a Saviour, whose presence will be the comfort of this Life, and the happiness of the next. <hi>Which I beseech,</hi> &amp;c.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204922:17"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's most Excel<g ref="char:EOLhyphen"/>lent Majesty, for his Houshold and Chappel, 1686.</head>
+            <list>
+               <item>REflections upon the Answer to the <hi>Papist Mis-represented &amp;c.</hi> Directed to the Answerer. <hi>Quarto.</hi>
+               </item>
+               <item>
+                  <hi>Kalendarium Catholicum</hi> for the Year 1686. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Papists</hi> Protesting against <hi>Protestant-Popery.</hi> In Answer to a Discourse Entituled, <hi>A Papist not Mis-represented by Pro<g ref="char:EOLhyphen"/>testants.</hi> Being a Vindication of the <hi>Papist Mis-represented</hi> and <hi>Represented,</hi> and the <hi>Reflections</hi> upon the Answer. <hi>Quart.</hi>
+               </item>
+               <item>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutchess of <hi>York.</hi> Published by his Majesty's Command. <hi>Folio.</hi>
+               </item>
+               <item>The Spirit of Christianity. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+               </item>
+               <item>The first Sermon Preach'd before their Majesties in <hi>English</hi> at <hi>Windsor,</hi> on the first <hi>Sunday</hi> of <hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. P. E.</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Command. <hi>Quarto.</hi>
+               </item>
+               <item>Second Sermon Preached before the King and Queen, and Queen Dowager, at Their Majesties Chappel at St <hi>James</hi>'s, <hi>November</hi> 1, 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+               </item>
+               <item>Sixth Sermon Preach'd before the King and Queen, in their Majesties Chappel at St. <hi>James</hi>'s, upon the first <hi>Wednesday</hi> in <hi>Lent,</hi> Febr. 24. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Publish'd by his Majesty's Command. <hi>Quarto.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:204922:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
